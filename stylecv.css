@@ -1,0 +1,142 @@
+body {
+    background-color: #b9991a;
+
+}
+
+.container {
+    width: auto;
+
+}
+
+
+.background {
+    position: fixed;
+    top: 0;
+    left: 0;
+    /* height: 100%; */
+    width: 250px;
+    background-color: #b9991a;
+    border-right: 3px solid #131312;
+    overflow: scroll;
+
+}
+
+
+/* div.relative{
+    width:100px;
+    height:100px;
+    background-color: #b9991a;
+    position: relative;
+    left: 100px;
+    border: 3px solid;
+} */
+
+
+#bild1 {
+    border-radius: 50%;
+    /* height:170px;
+    width:170px; */
+    /* height: 30%;
+    width: 75%; */
+
+    height: 150px;
+    width: 200px;
+}
+
+.middle {
+    /* justify-content: center;
+    display: flex;
+    align-content: center; */
+    float: left;
+    margin-left: 40%;
+}
+
+a {
+    text-decoration: none;
+    color: #131312;
+    font-size: 40px;
+
+
+
+}
+
+.middle {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 350px;
+    background-color: #b9991a;
+    width: 700px;
+    font-size: 25px;
+    margin-left: 20%;
+    /* margin-bottom: 50%; */
+}
+
+.text {
+    text-align: center;
+}
+
+.arbete {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    margin-right: 20%;
+    margin-top: 20%;
+  
+}
+
+
+  .utbildning{
+    text-align: center;
+   margin-top: 10%;
+   margin-left: 350px;
+   width: 500px;
+  }
+  .intresse{
+    font-size: larger
+  }
+  .pil{
+    justify-content: center;
+    display: flex;
+
+.intresse{
+    margin-left: 550px;
+
+}
+
+  }
+  table {
+    border-collapse: collapse;
+   
+   justify-content: center;
+    width: 50px;
+    margin-left: 550px;
+   
+  }
+
+  td, th {
+    border: 1px solid white;
+    padding: 8px;
+    text-align: left;
+  }
+
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+  }
+  .containerr {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+  }
+  
+  .item {
+    margin: 10px;
+    padding: 20px;
+    border: 1px solid black;
+    text-align: center;
+  }

@@ -1,0 +1,55 @@
+
+*{
+    margin: 5px;
+}
+
+a {
+    background-color: white;
+}
+
+a:hover {
+    font-size: xx-large;
+    background-color: black;
+    color: white;
+}
+
+h1:hover {
+    font-size: xx-large;
+    background-color: red;
+    color: white;
+    text-transform: lowercase;
+}
+
+p:hover {
+    font-size: xx-large;
+    background-color: red;
+    color: white;
+    text-transform: lowercase;
+}
+
+.first:hover {
+    font-size: xx-large;
+    background-color: red;
+    color: white;
+}
+
+#secondhover:hover {
+    font-size: xx-large;
+    background-color: red;
+    color: black;
+}
+
+.bilder {
+    margin: 20px;
+    padding: 40px;
+
+}
+
+img {
+    opacity: 0.5;
+}
+
+img:hover {
+    opacity: 1;
+}
+
